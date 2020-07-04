@@ -3,8 +3,6 @@
 
 # ##  Description: Final Project for Course 3 - OMDB and TasteDive Mashup
 
-# In[ ]:
-
 
 import json
 import requests_with_caching
